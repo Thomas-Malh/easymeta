@@ -1,4 +1,5 @@
-# EasyMeta
+# [EasyMeta]
+[EasyMeta]: https://rubygems.org/gems/easymeta
 
 Easy Meta helps rails developer to organize the default metadata of a website.
 
